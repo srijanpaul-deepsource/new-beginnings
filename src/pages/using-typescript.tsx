@@ -19,6 +19,7 @@ const UsingTypescript: React.FC<PageProps<DataProps>> = ({ data, path }) => (
       This means that you can create and write <em>.ts/.tsx</em> files for your
       pages, components etc. Please note that the <em>gatsby-*.js</em> files
       (like gatsby-node.js) currently don't support TypeScript yet.
+      "FOo bar"
     </p>
     <p>
       For type checking you'll want to install <em>typescript</em> via npm and
